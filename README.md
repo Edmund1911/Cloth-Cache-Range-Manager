@@ -1,5 +1,7 @@
 # Cloth Cache Range Manager
 
+<img width="353" height="326" alt="螢幕擷取畫面 2026-08-13 164059" src="https://github.com/user-attachments/assets/b7286d63-13b2-41b0-a7e9-b7ffc0b1c552" />
+
 A small Blender add-on for managing Cloth simulation cache frame ranges.
 
 Blender Cloth cache ranges are normally stored per Cloth object, which can become inconvenient when a scene contains many Cloth simulations. This add-on provides a simple way to synchronize Cloth cache ranges with the current Scene frame range.

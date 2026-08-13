@@ -56,7 +56,7 @@ It does not automatically bake or delete Cloth caches, and it does not modify Cl
 
 ## Compatibility
 
-Tested successfully with the Blender version 5.1.2.
+Blender 4.2 and newer.
 
 ## License
 

@@ -56,9 +56,7 @@ It does not automatically bake or delete Cloth caches, and it does not modify Cl
 
 ## Compatibility
 
-Designed for modern Blender versions using the current Cloth point-cache API.
-
-Tested successfully with the Blender version used during development.
+Tested successfully with the Blender version 5.1.2.
 
 ## License
 
@@ -66,4 +64,4 @@ Released under the MIT License. See `LICENSE` for details.
 
 ## Credits
 
-Developed with assistance from ChatGPT .
+Developed with assistance from ChatGPT (OpenAI).
